@@ -1,5 +1,4 @@
 # PatricioGabrielRamosMantari
-<!DOCTYPE html>
 <html>
 <head>
 
