@@ -18,7 +18,7 @@
      	 <h4 style="text-align:center;background-color:lightblue">OBJETIVOS 							UNIVERSITARIOS</h4>
         	 <ul>
   				<li>Desarrollar más mis conocimientos en computacion y 									programacion</li>
-  				<li>Lograr campbiar mis pensamientos erroneos con respecto a la computacion</li>
+  				<li>Lograr cambiar mis pensamientos erroneos con respecto a la computacion</li>
   				<li>Lograr tener una mente computacional</li>
                 <li>Lograr acabar mi carrera y obtener mi titulo</li>
 				</ul>
