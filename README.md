@@ -2,37 +2,31 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Page Title</title>
+
 </head>
 <body>
 
-<h1>PATRICIO GABRIEL RAMOS MANTARI</h1>
-<p>This is a paragraph.</p>
+<h1 style="text-align:center;color:lightgreen">PATRICIO GABRIEL RAMOS MANTARI</h1>
 
 </body>
-<p>Les presento mi primera pagina web</p>
-<table style="width:100%">
-  <tr>
-    <th>Firstname</th>
-    <th>Lastname</th>
-    <th>Age</th>
-  </tr>
-  <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>50</td>
-  </tr>
-  <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
-  </tr>
-</table>
-<p>Este mi pagina de debate futbolistico</p>
-
-<a href="https://www.youtube.com/user/deportesatresmedia">ve el chiringruto</a>
+	<h3><b>LES PRESENTO MI PRIMERA PAGINA WEB</b></h3>
+		<p>En esta ocasion les presentare un poco de mi vida personal y mis objetivos 			en esta etapa universitaria.</p>
+	<h4 style="color:orange;">VIDA PERSONAL</h4>
+    	<p> Yo naci en Paracas, Ica, actualmente estoy viviendo en Lima, La Molina, 		tengo 17 años, estudie en el colegio I.E.E Mixto La Molina 1278, y a dia de hoy 		estoy recien ingresado en la Universidad San ignacio de Loyola, y la carrera 		que 	estoy estudiando es Ingenieria de Sistemas de Informacion.</p>
+        <center>
+   		 <image src="https://posgrado.utec.edu.pe/wp-content/uploads/2021/03/conoce-las-		becas-para-la-maestria-de-especializacion-en-computer-science-de-utec-2021-i.jpg" 			width="400px" height="200px">
+         </center>
+     	 <h4 style="text-align:center;background-color:lightblue">OBJETIVOS 							UNIVERSITARIOS</h4>
+        	 <ul>
+  				<li>Desarrollar más mis conocimientos en computacion y 									programacion</li>
+  				<li>Lograr campbiar mis pensamientos erroneos con respecto a la computacion</li>
+  				<li>Lograr tener una mente computacional</li>
+                <li>Lograr acabar mi carrera y obtener mi titulo</li>
+				</ul>
+              <a href="http://patriciogabrielramosmantari.me/">Mi pagina</a>
 
 
 
 <body/>
 </html>
+
