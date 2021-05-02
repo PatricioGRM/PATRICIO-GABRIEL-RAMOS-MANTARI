@@ -23,7 +23,7 @@
   				<li>Lograr tener una mente computacional</li>
                 <li>Lograr acabar mi carrera y obtener mi titulo</li>
 				</ul>
-              <a href="http://patriciogabrielramosmantari.me/">Mi pagina</a>
+              <a href="http://patriciogabrielramosmantari.me/">PATRICIO GABRIEL RAMOS MANTARI </a>
 
 
 
