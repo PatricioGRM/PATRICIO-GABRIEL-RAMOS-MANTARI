@@ -22,7 +22,7 @@
                 <li>Lograr acabar mi carrera y obtener mi titulo</li>
 				</ul>
                
-              <a href="http://patriciogabrielramosmantari.me/">Link de mi pagina</a>
+              <a href="http://patriciogabrielramosmantari.me/">PATRICIO GABRIEL RAMOS MANTARI</a>
 
 
 
