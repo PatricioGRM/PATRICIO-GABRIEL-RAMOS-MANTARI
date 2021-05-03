@@ -6,7 +6,6 @@
 
 <h1 style="text-align:center;color:lightgreen">PATRICIO GABRIEL RAMOS MANTARI</h1>
 
-</body>
 
 	<h3><b>LES PRESENTO MI PRIMERA PAGINA WEB</b></h3>
 		<p>En esta ocasion les presentare un poco de mi vida personal y mis objetivos 			en esta etapa universitaria.</p>
@@ -30,7 +29,7 @@
 
 
 <body/>
-</html>
+
 
 
 
