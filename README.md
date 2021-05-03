@@ -1,11 +1,8 @@
-# Patricio Gabriel Ramos Mantari
 <html>
-<head>
 
-</head>
 <body>
-
-<h1 style="text-align:center;color:lightgreen">PATRICIO GABRIEL RAMOS MANTARI</h1>
+<section class="page-header">
+      <h1 class="project-name">Patricio Gabriel Ramos Mantari</h1>
 
 </body>
 	<h3><b>LES PRESENTO MI PRIMERA PAGINA WEB</b></h3>
