@@ -1,7 +1,5 @@
 <html>
-<head>
-<title>PATRICIO GABRIEL RAMOS MANTARI</title>
-</head>
+
 <body>
 
 <h1 style="text-align:center;color:lightgreen">PATRICIO GABRIEL RAMOS MANTARI</h1>
