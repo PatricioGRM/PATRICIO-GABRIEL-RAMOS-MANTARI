@@ -2,7 +2,6 @@
 
 <body>
 
-<h1 style="text-align:center;color:lightgreen">PATRICIO GABRIEL RAMOS MANTARI</h1>
 
 
 	<h3><b>LES PRESENTO MI PRIMERA PAGINA WEB</b></h3>
