@@ -1,7 +1,12 @@
 <html>
 
 <body>
-
+<section class="page-header">
+      <h1 class="project-name">Patricio Gabriel Ramos Mantari</h1>
+      <h2 class="project-tagline">Estudiante de ingenieria de Sistemas de Información</h2>
+      
+      
+    </section>
 
 
 	<h3><b>LES PRESENTO MI PRIMERA PAGINA WEB</b></h3>
