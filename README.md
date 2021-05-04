@@ -23,8 +23,7 @@
  <a href="http://patriciogabrielramosmantari.me/"> PATRICIO GABRIEL RAMOS MANTARI</a>
 
 
-</body>
-</html>
+
 
 
 
