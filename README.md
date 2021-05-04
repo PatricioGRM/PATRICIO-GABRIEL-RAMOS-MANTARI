@@ -11,7 +11,7 @@
         
         <center>
    		 <image src="https://posgrado.utec.edu.pe/wp-content/uploads/2021/03/conoce-las-		becas-para-la-maestria-de-especializacion-en-computer-science-de-utec-2021-i.jpg" 			width="400px" height="200px">
-         </center>
+         <center/>
      	 
          <h4 style="text-align:center;background-color:lightblue">OBJETIVOS 							UNIVERSITARIOS</h4>
         	 <ul>
