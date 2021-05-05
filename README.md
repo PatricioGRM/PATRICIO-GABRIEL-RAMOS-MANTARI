@@ -1,7 +1,9 @@
+<!doctype html>
 <html>
-	<head> 
+<head>
+<meta charset="utf-8">
 <title>PATRICIO GABRIEL RAMOS MANTARI</title>
-	</head>
+</head>
 <body>
 <section class="page-header">
       <h1 class="project-name">Patricio Gabriel Ramos Mantari</h1>
