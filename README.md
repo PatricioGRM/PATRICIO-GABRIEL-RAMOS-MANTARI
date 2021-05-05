@@ -1,5 +1,7 @@
 <html>
-
+	<head>
+<title>PATRICIO GABRIEL RAMOS MANTARI</title>
+	</head>
 <body>
 <section class="page-header">
       <h1 class="project-name">Patricio Gabriel Ramos Mantari</h1>
