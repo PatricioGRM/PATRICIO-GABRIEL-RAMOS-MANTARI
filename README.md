@@ -1,5 +1,5 @@
 <html>
-	<head>
+	<head> 
 <title>PATRICIO GABRIEL RAMOS MANTARI</title>
 	</head>
 <body>
