@@ -1,15 +1,16 @@
-<!doctype html>
-<html>
+<!DOCTYPE html>
+<html lang="es">
+
 <head>
-	<meta charset="utf-8">
-	<link href="https://fonts.googleapis.com/css?family=Sintony&amp;display=swap" rel="stylesheet">
-	<title>PATRICIO GABRIEL RAMOS MANTARI</title>
+	<meta charset="UTF-8">
+	<title>Patricio Gabriel Ramos Mantari</title>
 </head>
+
 <body>
-<section class="page-header">
-      <h1 class="project-name">Patricio Gabriel Ramos Mantari</h1>
-      <h2 class="project-tagline">Estudiante de ingenieria de Sistemas de Información</h2>
-</section>
+	<section class="page-header">
+		<h1 class="project-name">Patricio Gabriel Ramos Mantari</h1>
+		<h2 class="project-tagline">Estudiante de ingenieria de Sistemas de Información</h2>
+	</section>
 
 <h3><b>LES PRESENTO MI PRIMERA PAGINA WEB</b></h3>
 <p>En esta ocasion les presentare un poco de mi vida personal y mis objetivos en esta etapa universitaria.</p>
@@ -26,3 +27,7 @@
 		</ul>
                
  <a href="http://patriciogabrielramosmantari.me/"> PATRICIO GABRIEL RAMOS MANTARI</a>
+ 
+ </body>
+
+</html>
