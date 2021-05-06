@@ -1,8 +1,9 @@
 <!doctype html>
 <html>
 <head>
-<meta charset="utf-8">
-<title>PATRICIO GABRIEL RAMOS MANTARI</title>
+	<meta charset="utf-8">
+	<link href="https://fonts.googleapis.com/css?family=Sintony&amp;display=swap" rel="stylesheet">
+	<title>PATRICIO GABRIEL RAMOS MANTARI</title>
 </head>
 <body>
 <section class="page-header">
