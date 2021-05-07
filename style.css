@@ -1,1 +1,45 @@
+h4 {
+	color:orange;
+	text-align:center;
+	background-color:blue;
+	font-face:arial;
+	font-size:20px;
+}
 
+section{
+	
+}
+
+a{
+	text-align:center;
+}
+
+img{
+	display:block;
+	margin:auto;
+}
+
+.contenedor1 {
+	text-align:center;
+	font-size:40px;
+	background-color:white;
+}
+
+.contenedor2 {
+	background-color:#81FF33;
+}
+
+h3{
+	font-face:arial;
+	font-size:30px;
+}
+
+p{
+	font-face:arial;
+	font-size:25px;
+}
+
+ul{
+	font-face:arial;
+	font-size:25px;
+}
